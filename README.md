@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-visit - chatappsbhadu.netlify.app
+visit - https://chatappsbhadu.netlify.app/
 
 therer are 2 username saved
 sbhadu, pass - 123456
